@@ -108,7 +108,7 @@ git commit -m 'first commit'
  create mode 100644 veggies/pea.txt
 
 ### Step 5
-git remote add origin https://github.com/grandcircusco/unit1-git-practice.git
+git remote add origin https://github.com/Lightningspree/unit1-git-practice.git
 git branch -M main
 git push -u origin main
 Enumerating objects: 10, done.
